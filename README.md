@@ -2,11 +2,13 @@
 
 Network engineer, hobbyist developer, and unapologetic vibe coder.
 
-I’m not a professional software engineer. Most of my software projects start with a problem I actually have, followed by some variation of:
+I’m not a professional software engineer. 
+Most of my software projects start with a problem I actually have, followed by some variation of:
 
 > “This is annoying. I can probably make AI build a tool for it.”
 
-I use AI heavily for implementation, while I focus more on requirements, architecture, debugging, testing, validation, and figuring out why something exploded at 3 AM.
+I use AI heavily for implementation, while I focus more on 
+requirements, architecture, debugging, testing, validation, and figuring out why something exploded at 3 AM.
 
 ### What I usually work on
 
@@ -17,19 +19,6 @@ I use AI heavily for implementation, while I focus more on requirements, archite
 - 🔍 Debugging weird edge cases
 - 🧪 Vibe coding things that probably did not need to become full projects
 
-### A few projects
-
-- **[dsh-subusage](https://github.com/KouzakiUmi/dsh-subusage)**  
-  Subscription usage monitoring for DeepSeek Harness and multiple model providers.
-
-- **[pyasar](https://github.com/KouzakiUmi/pyasar)**  
-  Python tooling for working with Electron ASAR archives.
-
-- **[WoC-ChinesePatch](https://github.com/KouzakiUmi/WoC-ChinesePatch)**  
-  Simplified Chinese localization patch and tooling for *Winds of Change*.
-
-- **[DeviConHan](https://github.com/KouzakiUmi/DeviConHan)**  
-  Localization project for *Devil Connection*.
 
 ### How I build things
 
