@@ -29,7 +29,7 @@ I use AI heavily for implementation, while I focus more on requirements, archite
   Simplified Chinese localization patch and tooling for *Winds of Change*.
 
 - **[DeviConHan](https://github.com/KouzakiUmi/DeviConHan)**  
-  Chinese localization project for *Devil's Connection*.
+  Localization project for *Devil Connection*.
 
 ### How I build things
 
