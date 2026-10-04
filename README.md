@@ -1,9 +1,25 @@
 # Hi, I'm Umi 👋
 
-A curiosity-driven developer building practical tools to solve problems I run into.
+Network engineer, hobbyist developer, occasional translator.
 
-- 🛠️ Mostly Python and JavaScript / TypeScript — AI tooling, automation, and desktop utilities.
-- 🎮 Also into game localization, VR, and making software and hardware work together.
-- 🔍 I care about usability, data safety, and recoverability — not just making things work, but making them work well.
+I mostly build tools for problems I run into myself:
+automation, AI tooling, localization workflows, and various utilities.
 
-When an open-source tool I use is missing something, I like to fix it and share the improvement.
+### Things I like working on
+
+- Python / TypeScript utilities
+- AI tooling and agent workflows
+- Networking and systems
+- Game localization and modding
+- Debugging things that probably weren't meant to be debugged
+
+### Projects
+
+- **dsh-subusage** — usage monitoring for DeepSeek Harness
+- **pyasar** — Python tools for Electron ASAR archives
+- **WoC-ChinesePatch** — Chinese localization patch for *Winds of Change*
+- **DeviConHan** — Chinese/English localization for *Devil's Connection*
+
+### Currently interested in
+
+Agent tooling, model integrations, local vision models, and making unreliable workflows slightly less unreliable.
