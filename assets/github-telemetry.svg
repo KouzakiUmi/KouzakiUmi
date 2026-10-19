@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="176" viewBox="0 0 840 176" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">UMI / Telemetry</title>
+  <desc id="desc">A dark azure section banner for KouzakiUmi, with the words Networks · Agents · Things that actually work and an abstract cyan and violet network constellation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="840" y2="176" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset=".56" stop-color="#101B2D"/>
+      <stop offset="1" stop-color="#151C3B"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="16" y1="0" x2="824" y2="176" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC" stop-opacity=".44"/>
+      <stop offset=".5" stop-color="#326381" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity=".38"/>
+    </linearGradient>
+    <linearGradient id="link" x1="541" y1="138" x2="795" y2="35" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#52DBEF"/>
+      <stop offset=".55" stop-color="#68BDF6"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientTransform="translate(685 89) scale(171 119)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2D6EA1" stop-opacity=".19"/>
+      <stop offset="1" stop-color="#2D6EA1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#8CCFFF" stroke-opacity=".035"/>
+    </pattern>
+    <clipPath id="clip"><rect x=".5" y=".5" width="839" height="175" rx="15.5"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="840" height="176" fill="url(#bg)"/>
+    <rect x="468" width="372" height="176" fill="url(#grid)"/>
+    <rect x="480" width="360" height="176" fill="url(#halo)"/>
+    <path d="M32 144H416" stroke="#2B4A64" stroke-opacity=".45"/>
+    <path d="M32 144H84" stroke="#67D6EE" stroke-opacity=".8"/>
+    <circle cx="35" cy="35" r="3" fill="#6CE0ED"/>
+    <text x="48" y="39" fill="#84A9C5" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="2.1">KOUZAKIUMI / GITHUB</text>
+    <text x="32" y="83" fill="#EAF7FF" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="1.2">UMI / TELEMETRY</text>
+    <text x="33" y="111" fill="#9DB6CD" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Networks · Agents · Things that actually work</text>
+    <g stroke="#5A91BD" stroke-width="1" stroke-opacity=".18">
+      <path d="M492 145L546 119L572 68L629 31L700 17L766 51L816 108M514 31L572 68L632 74L681 89L734 116L801 152"/>
+      <path d="M546 119L612 145L681 89L700 17M629 31L632 74L612 145M734 116L766 51L816 108L801 152L734 116"/>
+      <path d="M572 68L546 119L632 74M612 145L734 116L700 17M629 31L766 51"/>
+    </g>
+    <g stroke="url(#link)" stroke-width="1.15" stroke-linejoin="round">
+      <path d="M560 129L606 105L632 58L681 89L719 48L766 67L789 110" stroke-opacity=".7"/>
+      <path d="M606 105L654 131L681 89L729 133L766 67M632 58L719 48L681 89L606 105" stroke-opacity=".6"/>
+      <path d="M654 131L632 58M729 133L789 110L719 48" stroke-opacity=".25"/>
+      <path d="M681 65L702 77V101L681 113L660 101V77Z" stroke-opacity=".8"/>
+      <path d="M681 75L693 82V96L681 103L669 96V82Z" stroke-opacity=".42"/>
+      <path d="M681 65V75M702 77L693 82M702 101L693 96M681 113V103M660 101L669 96M660 77L669 82" stroke-opacity=".5"/>
+    </g>
+    <g fill="#79D7EB">
+      <circle cx="560" cy="129" r="2" opacity=".65"/>
+      <circle cx="606" cy="105" r="3"/>
+      <circle cx="632" cy="58" r="3"/>
+      <circle cx="654" cy="131" r="2.5" opacity=".8"/>
+      <circle cx="681" cy="89" r="3.5" fill="#C0EFF9"/>
+    </g>
+    <g fill="#A78BFA">
+      <circle cx="719" cy="48" r="3"/>
+      <circle cx="766" cy="67" r="3"/>
+      <circle cx="729" cy="133" r="2.5"/>
+      <circle cx="789" cy="110" r="2" opacity=".7"/>
+    </g>
+    <g fill="#7297B5" opacity=".4">
+      <circle cx="514" cy="31" r="1.5"/><circle cx="572" cy="68" r="1.5"/>
+      <circle cx="546" cy="119" r="1.5"/><circle cx="629" cy="31" r="1.5"/>
+      <circle cx="700" cy="17" r="1.5"/><circle cx="766" cy="51" r="1.5"/>
+      <circle cx="816" cy="108" r="1.5"/><circle cx="801" cy="152" r="1.5"/>
+      <circle cx="612" cy="145" r="1.5"/>
+    </g>
+    <circle cx="681" cy="89" r="37" stroke="#6BB9DE" stroke-opacity=".12" stroke-dasharray="2 6"/>
+    <path d="M495 89H526M510 74V104" stroke="#6AB5D8" stroke-opacity=".2"/>
+  </g>
+  <rect x=".5" y=".5" width="839" height="175" rx="15.5" stroke="url(#edge)"/>
+</svg>
