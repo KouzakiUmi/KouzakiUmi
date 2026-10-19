@@ -47,3 +47,17 @@ and actually useful than whether I personally typed every line of it.
 Mostly here to build tools for my own problems, 
 
 break things in interesting ways, and occasionally fix them.
+
+
+<!-- UMI-TELEMETRY:START -->
+
+![UMI / TELEMETRY — Networks, agents, and things that actually work](assets/github-telemetry.svg)
+
+<p align="center">
+  <img height="180" alt="Umi's GitHub Signals: public activity statistics" src="https://github-stats-extended.vercel.app/api?username=KouzakiUmi&amp;bg_color=0d1117&amp;title_color=7dd3fc&amp;icon_color=a78bfa&amp;text_color=c9d1d9&amp;border_color=30363d&amp;border_radius=12&amp;disable_animations=true&amp;show_icons=true&amp;custom_title=Umi%27s+GitHub+Signals&amp;hide_rank=false" />
+  <img height="180" alt="Public Code Mix: language distribution across public repositories" src="https://github-stats-extended.vercel.app/api/top-langs?username=KouzakiUmi&amp;bg_color=0d1117&amp;title_color=7dd3fc&amp;icon_color=a78bfa&amp;text_color=c9d1d9&amp;border_color=30363d&amp;border_radius=12&amp;disable_animations=true&amp;layout=compact&amp;langs_count=6&amp;custom_title=Public+Code+Mix" />
+</p>
+
+<p align="center"><sub>Public GitHub activity · Automatically refreshed, with caching.<br />Language mix reflects repository code size, not proficiency.</sub></p>
+
+<!-- UMI-TELEMETRY:END -->
